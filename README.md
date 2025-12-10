@@ -7,8 +7,6 @@ https://thehistoryofhowweplay.wordpress.com/2021/08/21/galaxian-the-hardware-tha
 
 Enemy sprite and animation – modified version of this file- https://www.vhv.rs/viewpic/hwToTwJ_galaga-enemy-sprite-png-enemy-sprite-png-transparent/
 
-Background - https://wall.alphacoders.com/big.php?i=885542
-
 Font - https://www.dafont.com/vermin-vibes-1989.font
 
 Main menu ship - https://www.pixilart.com/art/galaga-ship-2d5e91fc43d1cb4
